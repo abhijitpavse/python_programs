@@ -45,11 +45,11 @@
 # print('welcome', emp_id, emp_name)
 
 
-x=int(input("x: "))  #int will convert the input string into integer 
-y=float(input("y: ")) #float will convert the input string into float (decimal) number
+# x=int(input("x: "))  #int will convert the input string into integer 
+# y=float(input("y: ")) #float will convert the input string into float (decimal) number
 
-print("The Value of x is:", x)
-print("The Value of y is:", y)
+# print("The Value of x is:", x)
+# print("The Value of y is:", y)
 
 
 # #addition operation
@@ -75,8 +75,9 @@ print("The Value of y is:", y)
 # # floor division operation
 # print("the floor division of x and y is:", x // y)
 
-print("data type of x is:", type(x))
-print("data type of y is:", type(y))
+# print("data type of x is:", type(x))
+# print("data type of y is:", type(y))
 
-print(f"the addition of {x} and {y} is: {x + y}") # f is used to format the string and print the value of x and y in the string.
+# print(f"the addition of {x} and {y} is: {x + y}") # f is used to format the string and print the value of x and y in the string.
  
+

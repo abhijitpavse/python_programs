@@ -1,7 +1,7 @@
 print("hi guys", end=" ")
 print("welcome to python programming")
 
-x=input("Date: ")
+x=input("Day: ")
 y=input("Month: ")
 z=input("Year: ")
 
