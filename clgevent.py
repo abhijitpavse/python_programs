@@ -3,7 +3,7 @@
 registrations = [
     ("S101", "Abhi", "Coding"),
     ("S102", "Rahul", "Hackathon"),
-    ("S103", "Priyansh", "Coding"),
+    ("S103", "Priya", "Coding"),
     ("S101", "Abhi", "Hackathon"),
     ("S104", "Sneha", "Robotics"),
     ("S105", "Amit", "Coding"),
