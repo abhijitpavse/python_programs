@@ -1,4 +1,4 @@
-# nums = [False, False, True ]
+ # nums = [False, False, True ]
 # print(any(nums))
 
 # nums = [False, False, True ]
